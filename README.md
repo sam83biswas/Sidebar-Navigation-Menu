@@ -12,6 +12,7 @@ Responsive Sidebar Menu:
     
   c)Social media icons are available at the bottom of the sidebar for quick access to external links.
 
+
 Icons:
 
   a)Each navigation item is represented by a Font Awesome icon to improve usability and design.
