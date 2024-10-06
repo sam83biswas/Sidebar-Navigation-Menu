@@ -6,11 +6,11 @@ This project implements a responsive sidebar menu using HTML, CSS, and Font Awes
   
 Responsive Sidebar Menu:
 
-    a)The sidebar can be toggled on and off by clicking the burger menu icon (fa-bars) and closed by clicking the close icon (fa-xmark).
+  a)The sidebar can be toggled on and off by clicking the burger menu icon (fa-bars) and closed by clicking the close icon (fa-xmark).
     
-    b)Links in the sidebar lead to different sections like Gallery, Shortcuts, Exhibits, etc.
+  b)Links in the sidebar lead to different sections like Gallery, Shortcuts, Exhibits, etc.
     
-    c)Social media icons are available at the bottom of the sidebar for quick access to external links.
+  c)Social media icons are available at the bottom of the sidebar for quick access to external links.
 
 Icons:
 
@@ -43,7 +43,7 @@ Custom Fonts:
   
   d)Use the sidebar to navigate between sections or access social media links.
 
-**Future Enhancements (Optional)**
+**Future Enhancements**
 
   a)Add functionality to navigation links for smooth scrolling to respective sections.
   
